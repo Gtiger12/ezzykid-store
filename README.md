@@ -1,1 +1,1 @@
-# ezzykid-store
+# ezzykid-store. 
