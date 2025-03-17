@@ -16,3 +16,13 @@
         </p>
     </div>
 </section>
+<section id="features">
+    <div class="container">
+        <h2>How can we assist you today?</h2>
+        <p class="question">Looking for the latest fashion trends?</p>
+        <p class="question">Need top-tier brands like <strong>Nike</strong> and <strong>Adidas</strong>?</p>
+        <p class="question">Excited to explore our newest local brands?</p>
+        <p class="question">Want the best deals on streetwear and sportswear?</p>
+        <p class="cta">You're in the right place – let’s style you up!</p>
+    </div>
+</section>
