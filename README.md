@@ -10,3 +10,4 @@
         </p>
         <p>
             We are committed to providing <strong>high-quality, trendy, and affordable</strong> fashion that represents your unique style. Whether you're looking for <strong>streetwear, sportswear, or everyday essentials</strong>, Ezzykid Store 
+<meta name="google-site-verification" content="your-google-code">
