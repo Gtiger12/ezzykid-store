@@ -26,3 +26,26 @@
         <p class="cta">You're in the right place – let’s style you up!</p>
     </div>
 </section>
+#introduction {
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+#introduction .container {
+    max-width: 800px;
+    margin: auto;
+}
+
+#introduction h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+}
+
+#introduction p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #666;
+}
